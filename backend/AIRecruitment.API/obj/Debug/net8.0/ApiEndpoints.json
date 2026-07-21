@@ -1,0 +1,518 @@
+[
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.AdminController",
+    "Method": "GetDashboard",
+    "RelativePath": "api/Admin/dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.AdminController",
+    "Method": "GetJobs",
+    "RelativePath": "api/Admin/jobs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.AdminController",
+    "Method": "DeleteJob",
+    "RelativePath": "api/Admin/jobs/{jobId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.AdminController",
+    "Method": "UpdateJobStatus",
+    "RelativePath": "api/Admin/jobs/{jobId}/status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "AIRecruitment.API.DTOs.Admin.UpdateJobStatusDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.AdminController",
+    "Method": "GetReports",
+    "RelativePath": "api/Admin/reports",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.AdminController",
+    "Method": "GetUsers",
+    "RelativePath": "api/Admin/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.AdminController",
+    "Method": "UpdateUserRole",
+    "RelativePath": "api/Admin/users/{userId}/role",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "AIRecruitment.API.DTOs.Admin.UpdateUserRoleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.AdminController",
+    "Method": "UpdateUserStatus",
+    "RelativePath": "api/Admin/users/{userId}/status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "AIRecruitment.API.DTOs.Admin.UpdateUserStatusDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.ApplicationsController",
+    "Method": "Apply",
+    "RelativePath": "api/Applications",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AIRecruitment.API.DTOs.ApplyJobDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.ApplicationsController",
+    "Method": "UpdateApplicationStatus",
+    "RelativePath": "api/Applications/{applicationId}/status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "applicationId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "AIRecruitment.API.DTOs.UpdateApplicationStatusDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.ApplicationsController",
+    "Method": "GetApplicantsByJob",
+    "RelativePath": "api/Applications/job/{jobId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.ApplicationsController",
+    "Method": "GetMyApplications",
+    "RelativePath": "api/Applications/my",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AIRecruitment.API.DTOs.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AIRecruitment.API.DTOs.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.CandidateController",
+    "Method": "GetDashboard",
+    "RelativePath": "api/Candidate/dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.DashboardController",
+    "Method": "RecruiterDashboard",
+    "RelativePath": "api/Dashboard/recruiter",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.DashboardController",
+    "Method": "RecruiterAnalytics",
+    "RelativePath": "api/Dashboard/recruiter/analytics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.HiringManagerController",
+    "Method": "GetCandidates",
+    "RelativePath": "api/HiringManager/candidates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.HiringManagerController",
+    "Method": "GetCandidate",
+    "RelativePath": "api/HiringManager/candidates/{applicationId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "applicationId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.HiringManagerController",
+    "Method": "GetDashboard",
+    "RelativePath": "api/HiringManager/dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.HiringManagerController",
+    "Method": "UpdateDecision",
+    "RelativePath": "api/HiringManager/decisions/{applicationId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "applicationId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "AIRecruitment.API.DTOs.HiringManager.HiringDecisionRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.HiringManagerController",
+    "Method": "CreateFeedback",
+    "RelativePath": "api/HiringManager/feedback",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AIRecruitment.API.DTOs.HiringManager.InterviewFeedbackRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.HiringManagerController",
+    "Method": "UpdateFeedback",
+    "RelativePath": "api/HiringManager/feedback/{applicationId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "applicationId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "AIRecruitment.API.DTOs.HiringManager.UpdateInterviewFeedbackDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.JobsController",
+    "Method": "GetAllJobs",
+    "RelativePath": "api/Jobs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.JobsController",
+    "Method": "CreateJob",
+    "RelativePath": "api/Jobs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AIRecruitment.API.DTOs.CreateJobDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.JobsController",
+    "Method": "GetJobById",
+    "RelativePath": "api/Jobs/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.JobsController",
+    "Method": "UpdateJob",
+    "RelativePath": "api/Jobs/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "AIRecruitment.API.DTOs.UpdateJobDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.JobsController",
+    "Method": "DeleteJob",
+    "RelativePath": "api/Jobs/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.ProfileController",
+    "Method": "GetMyProfile",
+    "RelativePath": "api/Profile/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.ProfileController",
+    "Method": "UpdateProfile",
+    "RelativePath": "api/Profile/me",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AIRecruitment.API.DTOs.UpdateProfileDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.ProfileController",
+    "Method": "UploadResume",
+    "RelativePath": "api/Profile/upload-resume",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Resume",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.TestController",
+    "Method": "GetSecret",
+    "RelativePath": "api/Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.UserController",
+    "Method": "GetCurrentUser",
+    "RelativePath": "api/User/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.UserController",
+    "Method": "UpdateProfile",
+    "RelativePath": "api/User/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AIRecruitment.API.DTOs.ProfileDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AIRecruitment.API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[AIRecruitment.API.WeatherForecast, AIRecruitment.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
