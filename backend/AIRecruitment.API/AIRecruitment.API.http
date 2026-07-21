@@ -1,6 +1,0 @@
-@AIRecruitment.API_HostAddress = http://localhost:5001
-
-GET {{AIRecruitment.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
