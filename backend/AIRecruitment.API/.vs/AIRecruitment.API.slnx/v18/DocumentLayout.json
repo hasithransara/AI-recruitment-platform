@@ -1,0 +1,1291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\admin\\adminreportsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\admin\\adminreportsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\admin\\adminjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\admin\\adminjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\admin\\updatejobstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\admin\\updatejobstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\admin\\adminuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\admin\\adminuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\admin\\updateuserstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\admin\\updateuserstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\admin\\updateuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\admin\\updateuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\admin\\admindashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\admin\\admindashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\interfaces\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:interfaces\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\repositories\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:repositories\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\interfaces\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:interfaces\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\repositories\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:repositories\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\candidate\\candidatedashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\candidate\\candidatedashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\interfaces\\icandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:interfaces\\icandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\models\\interviewfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:models\\interviewfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\services\\airecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:services\\airecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\repositories\\hiringmanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:repositories\\hiringmanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\controllers\\hiringmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:controllers\\hiringmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\interfaces\\ihiringmanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:interfaces\\ihiringmanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\hiringmanager\\hiringdecisionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\hiringmanager\\hiringdecisionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\hiringmanager\\updateinterviewfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\hiringmanager\\updateinterviewfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\hiringmanager\\interviewfeedbackrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\hiringmanager\\interviewfeedbackrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\hiringmanager\\hiringmanagercandidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\hiringmanager\\hiringmanagercandidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\hiringmanager\\hiringmanagerdashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\hiringmanager\\hiringmanagerdashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\airecommendationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\airecommendationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\recruiteranalyticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\recruiteranalyticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\recruiterdashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\recruiterdashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\jobapplicantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\jobapplicantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\applyjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\applyjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\createjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\createjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\services\\resumematchingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:services\\resumematchingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\interfaces\\iresumematchingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:interfaces\\iresumematchingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\models\\resumematchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:models\\resumematchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\resumeuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\resumeuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\repositories\\profilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:repositories\\profilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\models\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:models\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\interfaces\\iprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:interfaces\\iprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\updateapplicationstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\updateapplicationstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\updatejobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\updatejobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\airecruitment.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:airecruitment.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\migrations\\20260716092526_addapplicationstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:migrations\\20260716092526_addapplicationstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\migrations\\20260716052301_addjobstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:migrations\\20260716052301_addjobstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\migrations\\20260714180056_addprofilefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:migrations\\20260714180056_addprofilefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\migrations\\20260713145732_addcandidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:migrations\\20260713145732_addcandidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\migrations\\20260712122152_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:migrations\\20260712122152_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\migrations\\20260717221555_fixjobapplicationdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:migrations\\20260717221555_fixjobapplicationdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|c:\\users\\user\\desktop\\ai-recruitment-system\\backend\\airecruitment.api\\migrations\\20260717221533_updateapplicationdeletebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D5691B-BAFA-4FF9-A8DE-F3CB9C0C526C}|AIRecruitment.API.csproj|solutionrelative:migrations\\20260717221533_updateapplicationdeletebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminJobDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\Admin\\AdminJobDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Admin\\AdminJobDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\Admin\\AdminJobDto.cs",
+              "RelativeToolTip": "DTOs\\Admin\\AdminJobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T15:28:47.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminReportsDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\Admin\\AdminReportsDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Admin\\AdminReportsDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\Admin\\AdminReportsDto.cs",
+              "RelativeToolTip": "DTOs\\Admin\\AdminReportsDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T15:39:09.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T12:39:32.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T12:50:34.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAuwLgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T14:39:52.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateJobStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\Admin\\UpdateJobStatusDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Admin\\UpdateJobStatusDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\Admin\\UpdateJobStatusDto.cs",
+              "RelativeToolTip": "DTOs\\Admin\\UpdateJobStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T15:29:04.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "Repositories\\AdminRepository.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAgwB8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T14:39:05.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "Models\\Application.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Models\\Application.cs",
+              "RelativeToolTip": "Models\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T09:22:41.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Interfaces\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAdminRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Interfaces\\IAdminRepository.cs",
+              "RelativeToolTip": "Interfaces\\IAdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T14:38:47.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Models\\Job.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Models\\Job.cs",
+              "RelativeToolTip": "Models\\Job.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA8wCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T05:21:48.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\Admin\\AdminUserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Admin\\AdminUserDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\Admin\\AdminUserDto.cs",
+              "RelativeToolTip": "DTOs\\Admin\\AdminUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T14:44:59.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateUserStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\Admin\\UpdateUserStatusDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Admin\\UpdateUserStatusDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\Admin\\UpdateUserStatusDto.cs",
+              "RelativeToolTip": "DTOs\\Admin\\UpdateUserStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T15:18:41.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T12:16:12.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateUserRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\Admin\\UpdateUserRoleDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Admin\\UpdateUserRoleDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\Admin\\UpdateUserRoleDto.cs",
+              "RelativeToolTip": "DTOs\\Admin\\UpdateUserRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T15:10:09.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminDashboardDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\Admin\\AdminDashboardDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Admin\\AdminDashboardDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\Admin\\AdminDashboardDto.cs",
+              "RelativeToolTip": "DTOs\\Admin\\AdminDashboardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T14:38:28.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAFAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T15:23:36.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "Controllers\\JobsController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T06:17:13.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Repositories\\JobRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\JobRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Repositories\\JobRepository.cs",
+              "RelativeToolTip": "Repositories\\JobRepository.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T05:29:45.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Interfaces\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IJobRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Interfaces\\IJobRepository.cs",
+              "RelativeToolTip": "Interfaces\\IJobRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T05:28:16.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Interfaces\\IApplicationRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Interfaces\\IApplicationRepository.cs",
+              "RelativeToolTip": "Interfaces\\IApplicationRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wBMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T09:32:22.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Services\\JwtService.cs",
+              "RelativeToolTip": "Services\\JwtService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T14:40:59.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CandidateController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "Controllers\\CandidateController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T13:00:52.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T12:15:32.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CandidateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Repositories\\CandidateRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CandidateRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Repositories\\CandidateRepository.cs",
+              "RelativeToolTip": "Repositories\\CandidateRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T12:52:47.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CandidateDashboardDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\Candidate\\CandidateDashboardDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Candidate\\CandidateDashboardDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\Candidate\\CandidateDashboardDto.cs",
+              "RelativeToolTip": "DTOs\\Candidate\\CandidateDashboardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T12:49:15.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICandidateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Interfaces\\ICandidateRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICandidateRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Interfaces\\ICandidateRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICandidateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T12:52:23.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AIRecommendationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Services\\AIRecommendationService.cs",
+              "RelativeDocumentMoniker": "Services\\AIRecommendationService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Services\\AIRecommendationService.cs",
+              "RelativeToolTip": "Services\\AIRecommendationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T21:19:44.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InterviewFeedback.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Models\\InterviewFeedback.cs",
+              "RelativeDocumentMoniker": "Models\\InterviewFeedback.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Models\\InterviewFeedback.cs",
+              "RelativeToolTip": "Models\\InterviewFeedback.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T09:21:05.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HiringManagerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Repositories\\HiringManagerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\HiringManagerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Repositories\\HiringManagerRepository.cs",
+              "RelativeToolTip": "Repositories\\HiringManagerRepository.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T09:30:52.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\ApplicationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\ApplicationsController.cs",
+              "RelativeToolTip": "Controllers\\ApplicationsController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T09:33:08.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HiringManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\HiringManagerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HiringManagerController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\HiringManagerController.cs",
+              "RelativeToolTip": "Controllers\\HiringManagerController.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAwwCwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T09:32:15.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IHiringManagerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Interfaces\\IHiringManagerRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IHiringManagerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Interfaces\\IHiringManagerRepository.cs",
+              "RelativeToolTip": "Interfaces\\IHiringManagerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T09:25:15.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HiringDecisionRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\HiringManager\\HiringDecisionRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\HiringManager\\HiringDecisionRequestDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\HiringManager\\HiringDecisionRequestDto.cs",
+              "RelativeToolTip": "DTOs\\HiringManager\\HiringDecisionRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T09:24:49.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateInterviewFeedbackDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\HiringManager\\UpdateInterviewFeedbackDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\HiringManager\\UpdateInterviewFeedbackDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\HiringManager\\UpdateInterviewFeedbackDto.cs",
+              "RelativeToolTip": "DTOs\\HiringManager\\UpdateInterviewFeedbackDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T09:24:34.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "InterviewFeedbackRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\HiringManager\\InterviewFeedbackRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\HiringManager\\InterviewFeedbackRequestDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\HiringManager\\InterviewFeedbackRequestDto.cs",
+              "RelativeToolTip": "DTOs\\HiringManager\\InterviewFeedbackRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T09:23:02.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HiringManagerCandidateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\HiringManager\\HiringManagerCandidateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\HiringManager\\HiringManagerCandidateDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\HiringManager\\HiringManagerCandidateDto.cs",
+              "RelativeToolTip": "DTOs\\HiringManager\\HiringManagerCandidateDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA/wDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T09:22:38.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HiringManagerDashboardDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\HiringManager\\HiringManagerDashboardDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\HiringManager\\HiringManagerDashboardDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\HiringManager\\HiringManagerDashboardDto.cs",
+              "RelativeToolTip": "DTOs\\HiringManager\\HiringManagerDashboardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T09:22:16.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Repositories\\ApplicationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Repositories\\ApplicationRepository.cs",
+              "RelativeToolTip": "Repositories\\ApplicationRepository.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAAAEcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T09:32:44.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AIRecommendationDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\AIRecommendationDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AIRecommendationDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\AIRecommendationDto.cs",
+              "RelativeToolTip": "DTOs\\AIRecommendationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T21:19:17.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T20:34:15.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RecruiterAnalyticsDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\RecruiterAnalyticsDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RecruiterAnalyticsDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\RecruiterAnalyticsDto.cs",
+              "RelativeToolTip": "DTOs\\RecruiterAnalyticsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T20:47:43.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RecruiterDashboardDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\RecruiterDashboardDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RecruiterDashboardDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\RecruiterDashboardDto.cs",
+              "RelativeToolTip": "DTOs\\RecruiterDashboardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T20:30:39.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CreateJobDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\CreateJobDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateJobDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\CreateJobDto.cs",
+              "RelativeToolTip": "DTOs\\CreateJobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T05:27:43.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ApplicationDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\ApplicationDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ApplicationDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\ApplicationDto.cs",
+              "RelativeToolTip": "DTOs\\ApplicationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T16:58:34.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "JobApplicantDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\JobApplicantDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\JobApplicantDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\JobApplicantDto.cs",
+              "RelativeToolTip": "DTOs\\JobApplicantDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T05:37:16.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ApplyJobDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\ApplyJobDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ApplyJobDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\ApplyJobDto.cs",
+              "RelativeToolTip": "DTOs\\ApplyJobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T17:07:21.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\AuthResponseDto.cs",
+              "RelativeToolTip": "DTOs\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T12:40:12.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ResumeMatchingService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Services\\ResumeMatchingService.cs",
+              "RelativeDocumentMoniker": "Services\\ResumeMatchingService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Services\\ResumeMatchingService.cs",
+              "RelativeToolTip": "Services\\ResumeMatchingService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T15:10:03.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IResumeMatchingService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Interfaces\\IResumeMatchingService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IResumeMatchingService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Interfaces\\IResumeMatchingService.cs",
+              "RelativeToolTip": "Interfaces\\IResumeMatchingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T15:07:35.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ResumeMatchResult.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Models\\ResumeMatchResult.cs",
+              "RelativeDocumentMoniker": "Models\\ResumeMatchResult.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Models\\ResumeMatchResult.cs",
+              "RelativeToolTip": "Models\\ResumeMatchResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T15:05:01.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProfileController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwEYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T11:35:47.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ResumeUploadDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\ResumeUploadDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ResumeUploadDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\ResumeUploadDto.cs",
+              "RelativeToolTip": "DTOs\\ResumeUploadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T13:46:51.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CandidateProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Models\\CandidateProfile.cs",
+              "RelativeDocumentMoniker": "Models\\CandidateProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Models\\CandidateProfile.cs",
+              "RelativeToolTip": "Models\\CandidateProfile.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T14:55:17.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Repositories\\ProfileRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProfileRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Repositories\\ProfileRepository.cs",
+              "RelativeToolTip": "Repositories\\ProfileRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:13:58.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Interfaces\\IProfileRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProfileRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Interfaces\\IProfileRepository.cs",
+              "RelativeToolTip": "Interfaces\\IProfileRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:08:24.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T15:29:05.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdateApplicationStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\UpdateApplicationStatusDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateApplicationStatusDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\UpdateApplicationStatusDto.cs",
+              "RelativeToolTip": "DTOs\\UpdateApplicationStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T05:37:39.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20260717221555_FixJobApplicationDelete.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Migrations\\20260717221555_FixJobApplicationDelete.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260717221555_FixJobApplicationDelete.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Migrations\\20260717221555_FixJobApplicationDelete.cs",
+              "RelativeToolTip": "Migrations\\20260717221555_FixJobApplicationDelete.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T22:15:55.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20260717221533_UpdateApplicationDeleteBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Migrations\\20260717221533_UpdateApplicationDeleteBehavior.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260717221533_UpdateApplicationDeleteBehavior.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Migrations\\20260717221533_UpdateApplicationDeleteBehavior.cs",
+              "RelativeToolTip": "Migrations\\20260717221533_UpdateApplicationDeleteBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T22:15:33.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\JobDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\JobDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\JobDto.cs",
+              "RelativeToolTip": "DTOs\\JobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T05:27:31.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UpdateJobDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\UpdateJobDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateJobDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\UpdateJobDto.cs",
+              "RelativeToolTip": "DTOs\\UpdateJobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T05:27:57.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Interfaces\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Interfaces\\IAuthRepository.cs",
+              "RelativeToolTip": "Interfaces\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T12:42:07.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20260716092526_AddApplicationsTable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Migrations\\20260716092526_AddApplicationsTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260716092526_AddApplicationsTable.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Migrations\\20260716092526_AddApplicationsTable.cs",
+              "RelativeToolTip": "Migrations\\20260716092526_AddApplicationsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T09:25:27.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20260716052301_AddJobsTable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Migrations\\20260716052301_AddJobsTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260716052301_AddJobsTable.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Migrations\\20260716052301_AddJobsTable.cs",
+              "RelativeToolTip": "Migrations\\20260716052301_AddJobsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T05:23:01.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20260714180056_AddProfileFields.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Migrations\\20260714180056_AddProfileFields.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260714180056_AddProfileFields.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Migrations\\20260714180056_AddProfileFields.cs",
+              "RelativeToolTip": "Migrations\\20260714180056_AddProfileFields.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T18:00:56.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T14:54:50.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T12:48:19.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T12:42:41.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\ProfileDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProfileDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\ProfileDto.cs",
+              "RelativeToolTip": "DTOs\\ProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:06:17.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-14T14:14:50.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AIRecruitment.API.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\AIRecruitment.API.csproj",
+              "RelativeDocumentMoniker": "AIRecruitment.API.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\AIRecruitment.API.csproj",
+              "RelativeToolTip": "AIRecruitment.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-12T12:52:34.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateProfileDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\UpdateProfileDto.cs",
+              "RelativeToolTip": "DTOs\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:06:45.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20260713145732_AddCandidateProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Migrations\\20260713145732_AddCandidateProfile.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260713145732_AddCandidateProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Migrations\\20260713145732_AddCandidateProfile.cs",
+              "RelativeToolTip": "Migrations\\20260713145732_AddCandidateProfile.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T14:57:32.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-12T12:14:12.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T12:39:46.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20260712122152_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Migrations\\20260712122152_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260712122152_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AI-Recruitment-System\\backend\\AIRecruitment.API\\Migrations\\20260712122152_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260712122152_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T12:21:53.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
